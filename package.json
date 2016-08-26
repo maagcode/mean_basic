@@ -1,0 +1,26 @@
+{
+  "name": "mean_basic",
+  "version": "1.0.0",
+  "description": "Starter basic MEAN app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maagcode/mean_basic.git"
+  },
+  "keywords": [
+    "basic",
+    "mean"
+  ],
+  "author": "Maagcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maagcode/mean_basic/issues"
+  },
+  "homepage": "https://github.com/maagcode/mean_basic#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
